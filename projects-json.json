@@ -1,0 +1,30 @@
+{
+    "Machine Learning": {
+        "Customer Churn Prediction": {
+            "image": "path/to/churn_prediction_image.png",
+            "description": "Developed a machine learning model to predict customer churn using advanced classification techniques.",
+            "technologies": "Python, Scikit-learn, Pandas, Matplotlib",
+            "github_link": "https://github.com/yourusername/churn-prediction",
+            "demo_link": "https://churn-prediction-demo.herokuapp.com"
+        },
+        "Sentiment Analysis": {
+            "image": "path/to/sentiment_analysis_image.png",
+            "description": "Created a deep learning model for sentiment analysis of social media text data.",
+            "technologies": "Python, TensorFlow, NLTK, Keras",
+            "github_link": "https://github.com/yourusername/sentiment-analysis"
+        }
+    },
+    "Data Visualization": {
+        "COVID-19 Data Dashboard": {
+            "image": "path/to/covid_dashboard_image.png",
+            "description": "Interactive dashboard visualizing global COVID-19 statistics and trends.",
+            "technologies": "Python, Streamlit, Plotly, Pandas",
+            "github_link": "https://github.com/yourusername/covid-dashboard"
+        },
+        "Stock Market Trends": {
+            "image": "path/to/stock_market_image.png", 
+            "description": "Comprehensive analysis of stock market trends using time series analysis.",
+            "technologies": "Python, Pandas, Matplotlib, Seaborn"
+        }
+    }
+}
